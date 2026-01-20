@@ -1,0 +1,104 @@
+P-72217062-00411-2
+1665
+Kullosë E Klasës 4
+description: 57/2010-Kontrate mbi shitblerjen Vr.nr.3935/2010; dt.19.07.2010 Gj.K.Ferizaj
+IBRAHIM
+(FERIZ)
+OSMANI
+1011784204
+
+
+P-72217062-00411-3
+760
+Kullosë E Klasës 4
+2/2012-Aktvenim mbi Trashegimin T.nr.74/94; dt.20.10.1994 Gj.K.Ferizaj
+(Shefki)
+Shpend
+Shefkiu
+1012380565
+Kontrate e Shiteblerjes me Lrp.nr.3559/2022 dhe Ref.Nr.1224/2022
+FEVZI
+(HALIM)
+SHEFKIJA
+1005582543
+Kontrate e Shiteblerjes me Lrp.nr.3559/2022 dhe Ref.Nr.1224/2022
+
+
+
+P-72217062-00411-4
+2484
+Kullosë E Klasës 4
+Aktvendim mbi Trashegimin T.nr.223/09; dt.02.10.2009 Gj.K.Ferizaj
+AVDIRAHMAN
+(AÇIF)
+IMERI
+
+
+P-72217062-00607-2
+1443
+Kullosë E Klasës 4
+IBRAHIM
+(FERIZ)
+OSMANI
+1011784204
+
+P-72217062-00607-3
+707
+Kullosë E Klasës 4
+Shpend
+Shefkiu
+Shefki
+1012380565
+FEVZI
+SHEFKIJA
+HALIM
+1005582543
+
+P-72217062-00607-4
+2887
+Kullosë E Klasës 4
+MUSLI
+BERISHA
+ISLAM
+1005575717
+Arbër
+Berisha
+2004471817
+
+P-72217062-00608-1
+1493
+Mal I Klasës 2
+1493
+HAJRUSH
+BERISHA
+NEBIH
+KCID2209418
+
+P-72217062-00608-2
+921
+Mal I Klasës 2
+IBRAHIM
+OSMANI
+FERIZ
+1011784204
+
+P-72217062-00608-3
+538
+Mal I Klasës 2
+Shpend
+Shefkiu
+Shefki
+1012380565
+FEVZI
+SHEFKIJA
+HALIM
+1005582543
+
+P-72217062-00608-4
+2613
+Mal I Klasës 2
+AVDIRAHMAN
+1012451497
+(AÇIF)
+IMERI
+1012451497
