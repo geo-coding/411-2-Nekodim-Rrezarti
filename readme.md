@@ -63,6 +63,21 @@ Fevzi (Halim) Shefkija
 1005582543
 
 ```
+# teksti marrveshjes
+
+```
+Me kërkesën e pronarit z. Avdirahman (Açif) Imeri, për identifikimin e pareles
+(riregjistrimin grafikë) të parcelave 00411-4 dhe parcelës 00608-4 më dt.
+20.01.2026 është bërë matja e gjendjes faktike në terren e parcelave të
+lartëcekura të cilat janë lehtë të identifikueshme edhe në skicat e terrenit të
+gjetura në ZKK Ferizaj. 
+Parcela 00411-4 në anën jugore kufizohet me parcelën 00408-0 rrugë , në anën
+perendimore me parcelën 00898-0 (lumi) në anën lindore me parcelën 00427-0
+rrugë, të gjitha këto anë të definuara.
+Dhe në anën veriore parcelës në fjalë i mungon kufiri me parcelën 00411-3 me pronarë 
+z.Shpend (Shefki) Shefkiu dhe z. Fevzi (Halim) Shefkija, kufiri është shënuar në prezencë të palëve për të cilën palët japin pëlqim me nënshkrim.
+
+```
 
 # parcelat tjera mungese
 
