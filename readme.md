@@ -9,6 +9,8 @@
 ```
 00411-4
 2484
+2448
+-36
 Kullosë (4)
 Avdirahman (Açif) Imeri
 1012451497
@@ -17,6 +19,8 @@ Aktvendim mbi Trashegimin T.nr.223/09; dt.02.10.2009 Gj.K.Ferizaj
 
 00608-4
 2613
+2603
+-10
 Mal (2)
 Avdirahman (Açif) Imeri
 1012451497
